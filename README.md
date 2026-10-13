@@ -34,6 +34,9 @@ Apache Airflow orchestrates the pipeline, while Docker provides a reproducible r
 - Logging and pipeline execution auditing.
 - Automated tests and reproducible setup instructions.
 
+  <img width="1672" height="940" alt="Build Schema Step 2" src="https://github.com/user-attachments/assets/32f15870-ce59-4853-b5c4-fd9f91d945db" />
+
+
 ## Data Model
 
 The planned warehouse includes:

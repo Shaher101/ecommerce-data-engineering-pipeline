@@ -9,6 +9,7 @@ This project demonstrates how to build a reliable data pipeline for an e-commerc
 ## Architecture
 
 **Data Sources → Python ETL → SQL Server → Data Warehouse → Analytics**
+<img width="1672" height="940" alt="Architecture" src="https://github.com/user-attachments/assets/1b979fda-3425-44e1-bf47-55b9d1003338" />
 
 Apache Airflow orchestrates the pipeline, while Docker provides a reproducible runtime environment.
 

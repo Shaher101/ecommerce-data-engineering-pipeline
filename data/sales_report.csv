@@ -1,0 +1,9 @@
+order_item_id,order_id,product_id,quantity,unit_price,line_total,customer_id,order_date,status,product_name,category,full_name,city
+1,1001,101,2.0,450.0,900.0,1,2026-10-01,Delivered,Wireless Mouse,Electronics,Ahmed Hassan,Cairo
+2,1001,103,1.0,150.0,150.0,1,2026-10-01,Delivered,USB-C Cable,Accessories,Ahmed Hassan,Cairo
+8,1008,101,1.0,450.0,450.0,8,2026-10-09,Delivered,Wireless Mouse,Electronics,Salma Adel,Alexandria
+7,1007,103,2.0,150.0,300.0,7,2026-10-08,Pending,USB-C Cable,Accessories,Khaled Samy,Unknown
+3,1002,102,1.0,1200.0,1200.0,2,2026-10-02,Shipped,Mechanical Keyboard,Electronics,Mona Ali,Alexandria
+4,1002,104,2.0,600.0,1200.0,2,2026-10-02,Shipped,Laptop Stand,Accessories,Mona Ali,Alexandria
+5,1003,105,1.0,4500.0,4500.0,3,2026-10-03,Pending,Monitor,Electronics,Omar Khaled,Assiut
+6,1004,107,3.0,200.0,600.0,4,2026-10-04,Delivered,Phone Case,Accessories,Sara Mohamed,Giza

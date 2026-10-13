@@ -1,0 +1,11 @@
+
+product_id,product_name,category,price
+101,Wireless Mouse,Electronics,450.00
+102,Mechanical Keyboard,Electronics,1200.00
+103,USB-C Cable,Accessories,150.00
+104,Laptop Stand,Accessories,600.00
+105,Monitor,Electronics,4500.00
+105,Monitor Duplicate,Electronics,4500.00
+106,Headphones,Electronics,-250.00
+107,Phone Case,Accessories,200.00
+108,Webcam,Electronics,

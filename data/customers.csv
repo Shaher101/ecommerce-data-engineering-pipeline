@@ -1,0 +1,11 @@
+
+customer_id,full_name,email,city
+1,Ahmed Hassan,ahmed@example.com,Cairo
+2,Mona Ali,mona@example.com,Alexandria
+3,Omar Khaled,omar@example.com,Assiut
+4,Sara Mohamed,sara@example.com,Giza
+5,Youssef Adel,youssef@example.com,Cairo
+5,Ali Hassan,ali@example.com,Cairo
+6,Nour Ahmed,,Mansoura
+7,Khaled Samy,khaled@example.com, 
+8,Salma Adel,salma@example.com,Alexandria
